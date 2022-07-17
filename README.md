@@ -1,6 +1,4 @@
-# gun2jang
-[
-![instagram Badge](https://img.shields.io/badge/@gunhni-E4405F?style=flat-square&logo=Instagram&logoColor=white)
-]
-(https://www.instagram.com/gunhni/)
 
+![instagram Badge](https://img.shields.io/badge/@gun2jang-f26faa?style=flat-square&logo=Instagram&logoColor=white)
+
+(https://www.instagram.com/gun2jang/)
